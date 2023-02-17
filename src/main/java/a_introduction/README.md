@@ -49,12 +49,10 @@ Use ternary operator to write it shorter:
 ```java
 double alcoholContent = 5.5;
 string beerType;
-if (alcoholContent >= 4)
-{
+if (alcoholContent >= 4) {
     beerType = "strong";
 }
-else
-{
+else {
     beerType = "normal";
 }
 ```
@@ -99,6 +97,7 @@ The number of products (pcs) multiplied by the unit price (price) minus the perc
 to the expected sum. The method is to return true (the expectedSum is correct) or false (the expectedSum is not correct)
 
 Hint: Use Math.Round() to round the compared amounts to the nearest penny.
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html#round(double)
 ```java
 public static bool validateSumWithDiscount(int pcs, double price, double discount, double expectedSum)
 ```

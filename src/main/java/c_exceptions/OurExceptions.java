@@ -9,6 +9,6 @@ public class OurExceptions {
 
         System.out.println(c);
 
-
+        System.out.println("And this should be printed regardless of everything");
     }
 }
