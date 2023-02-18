@@ -27,4 +27,4 @@ public class TestModifiers {
 1. Create a User class with a private `int age` field;
 2. Write a public method (setter) to it that sets the age value, but only if the given age is in the range <1, 150>
 3. Write a public method (getter) for it that retrieves the age value from the private field
-4. Run `GettersAndSetters` class. What's the output?
+4. Uncomment code in `GettersAndSetters` class and run it. What's the output?
