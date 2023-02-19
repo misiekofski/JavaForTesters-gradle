@@ -103,7 +103,7 @@ public static bool validateSumWithDiscount(int pcs, double price, double discoun
 ```
 
 ### Task 12
-The GetQuadrant() method is supposed to take two parameters, the x and y coordinates of a point on the coordinate axis. 
+The `getQuadrant()` method is supposed to take two parameters, the x and y coordinates of a point on the coordinate axis. 
 It's supposed to return (use the switch function) the number of the quadrant on the coordinate system.
 
 ![Explanation for task 12](../../resources/images/quarters.png)

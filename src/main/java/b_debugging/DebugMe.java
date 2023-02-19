@@ -3,7 +3,7 @@ package b_debugging;
 public class DebugMe {
     public static void main(String[] args) {
         int x = 5 * 12 - 32 + 1 * 2;
-        String text = "Ala ma " + x + " kotów";
+        String text = "Alice has " + x + " cats";
         Surprise.magicMethod();
 
         char[] weird = {

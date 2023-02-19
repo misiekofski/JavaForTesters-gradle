@@ -25,7 +25,7 @@ Pattern class documentation: https://docs.oracle.com/en/java/javase/11/docs/api/
 Matcher class documentation: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Matcher.html
 
 1. In the loaded file, search using regular expressions:
-* all amounts
-* all countries
-* all items
+   * all amounts
+   * all countries
+   * all items
 2. Print these items in the console
