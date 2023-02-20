@@ -99,7 +99,7 @@ to the expected sum. The method is to return true (the expectedSum is correct) o
 Hint: Use Math.Round() to round the compared amounts to the nearest penny.
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html#round(double)
 ```java
-public static bool validateSumWithDiscount(int pcs, double price, double discount, double expectedSum)
+public static boolean validateSumWithDiscount(int pcs, double price, double discount, double expectedSum)
 ```
 
 ### Task 12

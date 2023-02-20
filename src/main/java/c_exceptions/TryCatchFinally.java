@@ -7,8 +7,10 @@ public class TryCatchFinally {
             System.out.println(a.length());
         } catch(IllegalArgumentException ex) {
             System.out.println("Exception has been caught");
+        } finally {
+            System.out.println("This should always be printed.");
         }
 
-        System.out.println("This should always be printed.");
+
     }
 }
