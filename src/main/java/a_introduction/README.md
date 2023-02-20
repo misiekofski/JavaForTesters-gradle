@@ -48,7 +48,7 @@ Use ternary operator to write it shorter:
 
 ```java
 double alcoholContent = 5.5;
-string beerType;
+String beerType;
 if (alcoholContent >= 4) {
     beerType = "strong";
 }
