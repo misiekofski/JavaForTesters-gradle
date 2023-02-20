@@ -41,7 +41,7 @@ Create two variables:
 - string name
 - int age
 
-Print a string in the format "Name, is X years old and is (under)age" depending on whether the age variable is less than 18 or not.
+Print a string in the format "Name, is X years old and is (under/of)age" depending on whether the age variable is less than 18 or not.
 
 ### Task 6
 Use ternary operator to write it shorter:
