@@ -8,7 +8,7 @@
 
 #### Exercise 2
 1. Enter the class `ThrowExceptions.cs` and see the application code
-2. Correct the `getMaxElement()` method so that it *throws* an `ArgumentException` if the length of the array passed as a parameter is 0 (the array is empty)
+2. Correct the `getMaxElement()` method so that it *throws* an `IllegalArgumentException` if the length of the array passed as a parameter is 0 (the array is empty)
 3. Correct the code of the `main()` method so that the application starts and prints information about the empty array passed as a parameter.
 
 #### Exercise 3

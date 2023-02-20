@@ -10,7 +10,5 @@ public class TryCatchFinally {
         } finally {
             System.out.println("This should always be printed.");
         }
-
-
     }
 }
