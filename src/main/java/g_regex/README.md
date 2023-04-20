@@ -13,10 +13,10 @@ Files class documentation: https://docs.oracle.com/en/java/javase/11/docs/api/ja
 
 1. Create a text file (with .txt extension) in the `/resources/textfiles` directory and paste the content below
 ```text
-Mountain Bike in Poland costs PLN 2042.23.
-A computer in the US costs $2,500.00.
-A car in Germany costs €35,000.00.
-A beer in the shop costs PLN 3.
+A mountain bike in Poland costs 2042.23PLN.
+A computer in USA costs 2 500.00$.
+A car in Germany costs 35000.00€.
+A beer in the shop costs 3PLN.
 ```
 2. Read the file into memory using the readAllLines instruction
 
