@@ -5,13 +5,7 @@ public class OurExceptions {
         var a = 10;
         var b = 0;
 
-        try {
-            var c = a / b;
-            System.out.println(c);
-        } catch (ArithmeticException e) {
-            System.out.println(e.getMessage());
-        }
-
+        var c = a / b;
 
         System.out.println("And this should be printed regardless of everything");
     }
